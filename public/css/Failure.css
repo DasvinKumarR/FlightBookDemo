@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: #DEF5E5;
+}
+
+.sorry{
+    margin-top: 30px;
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    color: #8EC3B0;
+    font-size: 70px;
+}
